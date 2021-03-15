@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "sunrise"
 
 # Site Settings
 locale                   : "ko"
-title                    : "C 프로그래밍"
+title                    : "민석이의 C 프로그래밍"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "larmes0507"
@@ -52,8 +52,8 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+search                   : true
+search_full_content      : true
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "강민석"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "멋진 코딩 설계"
+  location         : "대한민국, 서울"
+  email            : "scottsky0507@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
