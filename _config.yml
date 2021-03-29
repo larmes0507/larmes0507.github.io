@@ -20,7 +20,7 @@ title                    : "세상의 화학 이야기"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "강민석"
-description              : "우리 생활과 밀접한 화학, 화학은 도처에 "
+description              : "우리 생활과 밀접한 화학, 화학은 도처에 깔려 "
 url                      : "https://larmes0507.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "larmes0507/larmes0507.github.io"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "강민석"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "멋진 코딩 설계"
+  bio              : "우리의 지적 호기심을 위한 "
   location         : "대한민국, 서울"
   email            : "scottsky0507@naver.com"
   links:
