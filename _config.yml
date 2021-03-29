@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "sunrise"
 
 # Site Settings
 locale                   : "ko"
-title                    : "세상의 화학 이야기"
+title                    : "위대한 화학 소년"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "강민석"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "강민석"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "모든 것은 호기심으로부터"
+  bio              : "세상의 화학 "
   location         : "대한민국, 서울"
   email            : "scottsky0507@naver.com"
   links:
