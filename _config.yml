@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "sunrise"
 
 # Site Settings
 locale                   : "ko"
-title                    : "위대한 화학 소년"
+title                    : "케미스터디"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "강민석"
