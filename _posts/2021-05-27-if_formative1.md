@@ -44,7 +44,7 @@ return 0;
 ~~~ 
 
 ### 03. 이 달은 며칠까지 있을까?
-![callenderl](/assets/images/month.png)
+![month](/assets/images/month.png)
 ~~~c
 #include <stdio.h>
 int main(void)
