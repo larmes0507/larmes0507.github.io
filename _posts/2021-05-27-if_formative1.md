@@ -25,7 +25,7 @@ return 0;
 ~~~ 
 
 ### 02. 3개의 터널 통과
-![tunnel](/assets/images/tunnel.png)
+![tunnel](/assets/images/tunnel.PNG)
 ~~~c
 #include <stdio.h>
 int main(void)
@@ -44,7 +44,7 @@ return 0;
 ~~~ 
 
 ### 03. 이 달은 며칠까지 있을까?
-![month](/assets/images/month.png)
+![month](/assets/images/month.PNG)
 ~~~c
 #include <stdio.h>
 int main(void)
