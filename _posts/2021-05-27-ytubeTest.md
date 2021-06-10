@@ -18,3 +18,7 @@ categories: “동영상”
 {% include video id="LZReImpa6-c" provider="youtube" %}
 ---
 
+### 04. 표면장력 : Young-Laplace equation
+{% include video id="yIg4zaNuv28" provider="youtube" %}
+---
+
